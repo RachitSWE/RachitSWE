@@ -2,10 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *"
-  # Allows you to run it manually from the Actions tab
   workflow_dispatch:
+
+# Add this specific block to give the bot push access
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Generates the snake animation from your contributions
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,7 +23,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      # Pushes the generated SVGs to an 'output' branch so it doesn't clutter your main branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
