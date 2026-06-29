@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I am a passionate high school student dedicated to building high-performance software. My main expertise lies in **Minecraft Mod Development**, **Full-Stack Web Development**, and **Agentic Engineering**. When I'm not writing web backends or optimizing game engines, you can find me experimenting with new frameworks and modding APIs.
+I am a passionate high school student dedicated to building high-performance software. My main expertise lies in **Minecraft Mod Development**, **Full-Stack Web/App Development**, and **Agentic Engineering**. When I'm not writing web backends or optimizing game engines, you can find me experimenting with new frameworks and modding APIs.
 
 * 🧑‍💻 **Hobbies:** Minecraft Modding and Software Development
 * 🧠 **Specialties:** Creating medium-to-complex Minecraft Mods (Fabric/Forge/NeoForge), stunning UIs, robust backends, and desktop apps via Tauri.
