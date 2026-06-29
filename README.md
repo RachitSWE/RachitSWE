@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-I am a passionate high school student dedicated to building high-performance software. My main expertise lies in **Full-Stack Web Development**, **Agentic Engineering**, and **Minecraft Mod Development**. When I'm not writing web backends or optimizing game engines, you can find me experimenting with new frameworks and modding APIs.
+I am a passionate high school student dedicated to building high-performance software. My main expertise lies in **Minecraft Mod Development**, **Full-Stack Web Development**, and **Agentic Engineering**. When I'm not writing web backends or optimizing game engines, you can find me experimenting with new frameworks and modding APIs.
 
-* 🧑‍💻 **Hobbies:** Software Development & Minecraft Modding
+* 🧑‍💻 **Hobbies:** Minecraft Modding and Software Development
 * 🧠 **Specialties:** Creating medium-to-complex Minecraft Mods (Fabric/Forge/NeoForge), stunning UIs, robust backends, and desktop apps via Tauri.
 
 ---
@@ -54,7 +54,7 @@ I am a passionate high school student dedicated to building high-performance sof
   <tr>
     <td>
       <h3>🎨 ImageRush</h3>
-      <p><strong>Status:</strong> 🛠️ Work in Progress | <strong>Role:</strong> Major Contributor</p>
+      <p><strong>Status:</strong> 🛠️ Work in Progress | <strong>Role:</strong> Lead Developer and Major Contributor</p>
       <p>A high-performance graphic design platform powered by <b>Next.js</b> and <b>PixiJS</b>. Create stunning thumbnails, banners, and dynamic overlays with a rich template marketplace, advanced WebGL shaders, and cinematic text animations. Features an integrated credit system and an intuitive design workspace.</p>
       <a href="https://github.com/ImageRushMain/ImageRush-Main">
         <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
@@ -74,7 +74,7 @@ I am a passionate high school student dedicated to building high-performance sof
   <tr>
     <td>
       <h3>🖥️ MC Server Manager</h3>
-      <p><strong>Status:</strong> 🛑 Discontinued | <strong>Role:</strong> Owner & Developer</p>
+      <p><strong>Status:</strong> 🛑 Discontinued | <strong>Role:</strong> Owner & Lead Developer</p>
       <p>An Aternos-like free Minecraft server management platform built with <b>Next.js</b>, <b>Supabase</b>, <b>Google Colab</b>, and <b>Playit.gg</b>.</p>
       <a href="https://github.com/RachitSWE/mc-server-manager">
         <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
