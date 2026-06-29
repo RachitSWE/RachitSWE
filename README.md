@@ -1,8 +1,9 @@
-# Hi there, I'm Rachit! 👋
+## Hi there! I'm RachitSWE :wave:
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=RachitSWE%20|%20Developer%20%EF%BC%9C%2F%EF%BC%9E&fontSize=50" alt="Rachit's Banner" />
+<img width="1020" height="540" alt="Banner_animation_dark_blue_backg…_202606291438 - Trim" src="https://github.com/user-attachments/assets/a606d544-9b6f-46ed-9d5a-5872e24cb7a3" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gender-Male-blue?style=for-the-badge" alt="Gender"/>
@@ -92,6 +93,9 @@ I am a passionate high school student dedicated to building high-performance sof
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RachitSWE&show_icons=true&theme=radical" alt="Rachit's GitHub stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSWE&layout=compact&theme=radical" alt="Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RachitSWE/RachitSWE/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RachitSWE/RachitSWE/output/github-contribution-grid-snake.svg">
+    <img alt="Rachit's Contribution Snake" src="https://raw.githubusercontent.com/RachitSWE/RachitSWE/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
