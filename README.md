@@ -55,7 +55,7 @@ I am a passionate high school student dedicated to building high-performance sof
       <h3>🎨 ImageRush</h3>
       <p><strong>Status:</strong> 🛠️ Work in Progress | <strong>Role:</strong> Lead Developer and Major Contributor</p>
       <p>A high-performance graphic design platform powered by <b>Next.js</b> and <b>PixiJS</b>. Create stunning thumbnails, banners, and dynamic overlays with a rich template marketplace, advanced WebGL shaders, and cinematic text animations. Features an integrated credit system and an intuitive design workspace.</p>
-      <a href="https://github.com/ImageRushMain/ImageRush-Main">
+      <a href="https://github.com/ImageRushMain/ImageRush">
         <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
       </a>
     </td>
